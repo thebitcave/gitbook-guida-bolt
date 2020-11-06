@@ -4,6 +4,8 @@ description: Un eBook per imparare lo sviluppo di videogiochi tramite Unity e Bo
 
 # Introduzione
 
+Il manuale che state leggendo parte come un progetto perennemente in corso sull'utilizzo del sistema di Visual Scripting di Unity \(Bolt\).
+
 Questo documento parte dal presupposto che si conoscano le basi di Unity3D \([https://unity.com/](https://unity.com/)\), in particolare:
 
 * Come ci si muove all'interno di una scena
@@ -17,6 +19,14 @@ Il progetto utilizzato durante le esercitazioni è disponibile al seguente indir
 > Nota: se non si ha dimestichezza con [Git ](https://git-scm.com/)e [GitHub](https://github.com/), si consiglia di scaricare semplicemente [l'ultima versione disponibile](https://github.com/thebitcave/gitbook-guida-bolt/releases) come file _.zip_, decomprimerla ed aprirla da **Unity Hub**.
 
 Il progetto non include Bolt, quindi sarà necessario installarlo [seguendo le istruzioni nella pagina dedicata](installare-bolt.md).
+
+### Informazioni
+
+Il progetto parte come ausilio per i miei studenti di [NABA ](https://www.naba.it/it)e [ScuolaFuturoLavoro](https://scuolafuturolavoro.it/), ma può essere fruito da qualsiasi insegnante che voglia introdurre i propri studenti alle basi della programmazione.
+
+{% hint style="info" %}
+Nel caso troviate il progetto utile e vogliate supportarlo, è possibile fare una donazione su **ko-fi** \([https://ko-fi.com/marcosecchi](https://ko-fi.com/marcosecchi)\) oppure su **GitHub Sponsors** \([https://github.com/sponsors/marcosecchi](https://github.com/sponsors/marcosecchi)\).
+{% endhint %}
 
 ### Credits
 
