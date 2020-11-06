@@ -1,2 +1,0 @@
-# Guida a Bolt
- 
