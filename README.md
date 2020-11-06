@@ -16,7 +16,7 @@ Il progetto utilizzato durante le esercitazioni è disponibile al seguente indir
 
 > Nota: se non si ha dimestichezza con [Git ](https://git-scm.com/)e [GitHub](https://github.com/), si consiglia di scaricare semplicemente [l'ultima versione disponibile](https://github.com/thebitcave/gitbook-guida-bolt/releases) come file _.zip_, decomprimerla ed aprirla da **Unity Hub**.
 
-Il progetto non include Bolt, quindi sarà necessario installarlo [seguendo le istruzioni nella pagina dedicata](primi-passi/installare-bolt.md).
+Il progetto non include Bolt, quindi sarà necessario installarlo [seguendo le istruzioni nella pagina dedicata](installare-bolt.md).
 
 ### Credits
 

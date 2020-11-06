@@ -1,10 +1,9 @@
 # Table of contents
 
 * [Introduzione](README.md)
+* [Installare Bolt](installare-bolt.md)
 
 ## Primi Passi
-
-* [Installare Bolt](primi-passi/installare-bolt.md)
 
 ## Tutorials
 
