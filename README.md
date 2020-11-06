@@ -28,9 +28,11 @@ Il progetto parte come ausilio per i miei studenti di [NABA ](https://www.naba.i
 Nel caso troviate il progetto utile e vogliate supportarlo, è possibile fare una donazione su **ko-fi** \([https://ko-fi.com/marcosecchi](https://ko-fi.com/marcosecchi)\) oppure su **GitHub Sponsors** \([https://github.com/sponsors/marcosecchi](https://github.com/sponsors/marcosecchi)\).
 {% endhint %}
 
+Il manuale ufficiale di Bolt può essere trovato al seguente indirizzo: [https://docs.unity3d.com/bolt/1.4/manual/index.html](https://docs.unity3d.com/bolt/1.4/manual/index.html)
+
 ### Credits
 
-Gli esercizi proposti utilizzano **Kay Kit  Mini-Game Variety Pack** disponibile al seguente indirizzo**:** [https://kaylousberg.itch.io/kay-kit-mini-game-variety-pack](https://kaylousberg.itch.io/kay-kit-mini-game-variety-pack)
+Gli esercizi proposti utilizzano **Kay Kit  Mini-Game Variety Pack** disponibile al seguente indirizzo**:** [https://kaylousberg.itch.io/kay-kit-mini-game-variety-pack](https://kaylousberg.itch.io/kay-kit-mini-game-variety-pack).
 
 ![](.gitbook/assets/overview.png)
 
