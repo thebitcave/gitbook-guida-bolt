@@ -1,16 +1,13 @@
 # Table of contents
 
 * [Introduzione](README.md)
-* [Installare Bolt](installare-bolt.md)
+* [Primi Passi](primi-passi-1/README.md)
+  * [Installare Bolt](primi-passi-1/installare-bolt.md)
+  * [Finestre Principali](primi-passi-1/finestre-principali.md)
+  * [Scorciatoie da Tastiera](primi-passi-1/scorciatoie-da-tastiera.md)
+  * [La Flow Machine](primi-passi-1/la-flow-machine.md)
 
-## Primi Passi
+## Livello Base <a id="esercitazioni"></a>
 
----
-
-* [Finestre Principali](finestre-principali.md)
-* [Scorciatoie da Tastiera](scorciatoie-da-tastiera.md)
-
-## Esercitazioni
-
-* [Livello Base](esercitazioni/untitled.md)
+* [Lezione 01 - Creare una Flow Machine](esercitazioni/lezione-01-creare-una-flow-machine.md)
 
