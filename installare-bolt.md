@@ -31,6 +31,19 @@ Finita la fase di importazione, dovrebbe comparire, nel menu principale di Unity
 * Selezionare _Tools &gt; Install Bolt_ per aprire una seconda finestra di importazione simile alla precedente
 * Cliccare ancora su _Import_
 
+Dopo qualche attimo, si aprirà la finestra di setup di Bolt, come mostrato in figura:
+
+![L&apos;inizio della configurazione di Bolt](.gitbook/assets/bolt-import-02.png)
+
+* Cliccate il pulsante _Next_
+* Nella sezione successiva \(_Naming_\), selezionate _Programmer Naming_
+* Nella sezione successiva \(_Assemblies_\), scorrete a fondo pagina e selezionate _Next_
+* Nella sezione successiva \(_Types_\), scorrete a fondo pagina e selezionate _Generate_
+* Finita la fase di generazione \(potrebbe volerci qualche minuto...\), apparirà una sezione finale con il messaggio _Setup Complete_
+* Siete arrivati al termine della installazione! Selezionate il pulsante _Close_
+
+![La conclusione della configurazione](.gitbook/assets/bolt-import-03.png)
+
 
 
 
