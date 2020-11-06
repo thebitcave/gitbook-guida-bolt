@@ -5,6 +5,10 @@
 
 ## Primi Passi
 
+---
+
+* [Scorciatoie da Tastiera](scorciatoie-da-tastiera.md)
+
 ## Esercitazioni \(Livello Base\)
 
 * [Untitled](esercitazioni-livello-base/untitled.md)
