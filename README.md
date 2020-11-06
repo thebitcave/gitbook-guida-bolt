@@ -22,7 +22,7 @@ Il progetto non include Bolt, quindi sarà necessario installarlo [seguendo le i
 
 Gli esercizi proposti utilizzano **Kay Kit  Mini-Game Variety Pack** disponibile al seguente indirizzo**:** [https://kaylousberg.itch.io/kay-kit-mini-game-variety-pack](https://kaylousberg.itch.io/kay-kit-mini-game-variety-pack)
 
-![](.gitbook/assets/zctqbr.png)
+![](.gitbook/assets/overview.png)
 
 
 
