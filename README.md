@@ -32,9 +32,13 @@ Il manuale ufficiale di Bolt può essere trovato al seguente indirizzo: [https:/
 
 ### Credits
 
-Gli esercizi proposti utilizzano **Kay Kit  Mini-Game Variety Pack** disponibile al seguente indirizzo**:** [https://kaylousberg.itch.io/kay-kit-mini-game-variety-pack](https://kaylousberg.itch.io/kay-kit-mini-game-variety-pack).
+Gli esercizi proposti utilizzano:
+
+**Kay Kit  Mini-Game Variety Pack** disponibile al seguente indirizzo**:** [https://kaylousberg.itch.io/kay-kit-mini-game-variety-pack](https://kaylousberg.itch.io/kay-kit-mini-game-variety-pack)
 
 ![](.gitbook/assets/overview.png)
 
+**Kenney UI Pack: Space Expansion** disponibile al seguente indirizzo**:** [https://kenney.nl/assets/ui-pack-space-expansion](https://kenney.nl/assets/ui-pack-space-expansion)
 
+![](.gitbook/assets/preview.png)
 

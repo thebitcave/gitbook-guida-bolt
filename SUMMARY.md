@@ -7,13 +7,10 @@
 
 ---
 
+* [Finestre Principali](finestre-principali.md)
 * [Scorciatoie da Tastiera](scorciatoie-da-tastiera.md)
 
-## Esercitazioni \(Livello Base\)
+## Esercitazioni
 
-* [Untitled](esercitazioni-livello-base/untitled.md)
-
----
-
-* [Finestre Principali](finestre-principali.md)
+* [Livello Base](esercitazioni/untitled.md)
 
