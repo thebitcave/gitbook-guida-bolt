@@ -1,6 +1,6 @@
 # Lezione 01 - Creare una Flow Machine
 
-In questa lezione andremo a creare una semplice applicazione che andrà a scrivere del testo all'interno della console. In particolare andremo a creare una [Flow Machine](../primi-passi-1/la-flow-machine.md) ed inseriremo un semplice comando di scrittura.
+In questa lezione andremo a creare una semplice applicazione che andrà a scrivere del testo all'interno della console. In particolare andremo a creare una [Flow Machine](../../alcuni-concetti-base/la-flow-machine.md) ed inseriremo un semplice comando di scrittura.
 
 Una Flow Machine non è altro che uno script di Bolt che ci permette di inserire, all'interno di un grafo, una serie di azioni e collegarle tra di loro.
 
@@ -17,7 +17,7 @@ Per prima cosa andiamo a creare un oggetto in scena ed aggiungiamo uno di questi
 * Selezioniamo _Bolt &gt; FlowMachine_ per aggiungere il componente
 * Nel componente appena aggiunto, nel campo Source, selezioniamo _Embed_
 
-![i componenti Flow Machine e Variables](../.gitbook/assets/flow-machine-component.png)
+![i componenti Flow Machine e Variables](../../.gitbook/assets/flow-machine-component.png)
 
 Noterete che è stato aggiunto anche un componente _Variables_: in seguito andremo a vedere il suo utilizzo.
 
@@ -28,7 +28,7 @@ Siamo ora pronti ad aggiungere il nostro script visuale:
 * Clicchiamo sul pulsante _Edit Graph_ nel componente _Flow Machine_
 * Si aprirà una finestra con due elementi di colore verde: _Start_ e _Update_
 
-![Il Flow Graph](../.gitbook/assets/flow-graph.png)
+![Il Flow Graph](../../.gitbook/assets/flow-graph.png)
 
 * Selezioniamo l'elemento Update e, con il tasto destro del mouse, eliminiamolo \(Delete\): in questo esercizio non ci servirà 
 
@@ -40,7 +40,7 @@ Siamo ora pronti a scrivere un messaggio all'interno della _Console_: questa ope
 * nel campo di ricerca della finestra che si presenterà, inseriamo _Debug.Log_
 * Selezioniamo _Debug.Log\(message\)_ per aggiungere l'unità
 
-![L&apos;unit&#xE0; Debug.Log](../.gitbook/assets/flow-graph-02.png)
+![L&apos;unit&#xE0; Debug.Log](../../.gitbook/assets/flow-graph-02.png)
 
 ### Completare il Grafo
 
@@ -49,7 +49,7 @@ Ora che abbiamo il nodo per scrivere il messaggio dobbiamo fare in modo che ques
 * Cliccate sul piccolo triangolo in uscita dallo _Start_ e mantenendo il pulsante del mouse premuto andate sul triangolo in ingresso dell'unità _Debug.Log_
 * Rilasciate il pulsante del mouse per completare il collegamento. Il nodo diventerà arancione perché gli manca il messaggio da mostrare
 
-![Il collegamento dell&apos;unit&#xE0;](../.gitbook/assets/flow-graph-03.png)
+![Il collegamento dell&apos;unit&#xE0;](../../.gitbook/assets/flow-graph-03.png)
 
 Dobbiamo ora aggiungere un messaggio:
 
@@ -57,7 +57,7 @@ Dobbiamo ora aggiungere un messaggio:
 * Rilasciare il pulsante e selezionare _string Literal_ \(che ci permette di definire un testo\). Verrà aggiunta una unità con un campo di inserimento testo vuoto
 * Nel campo inserire un testo qualsiasi, ad esempio _Ciao Mondo!_
 
-![Il grafo completo](../.gitbook/assets/flow-graph-04.png)
+![Il grafo completo](../../.gitbook/assets/flow-graph-04.png)
 
 ### Eseguire il codice
 

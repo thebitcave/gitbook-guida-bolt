@@ -1,4 +1,4 @@
-# Finestre Principali
+# Le Finestre Principali
 
 Esistono tre finestre principali in Bolt:
 
