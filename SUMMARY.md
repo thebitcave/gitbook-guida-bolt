@@ -4,10 +4,10 @@
 * [Primi Passi](primi-passi-1/README.md)
   * [Installare Bolt](primi-passi-1/installare-bolt.md)
   * [Le Finestre Principali](primi-passi-1/finestre-principali.md)
-  * [Scorciatoie da Tastiera](primi-passi-1/scorciatoie-da-tastiera.md)
 * [Alcuni Concetti Base](alcuni-concetti-base/README.md)
   * [Tipi e Variabili](alcuni-concetti-base/tipi-e-variabili.md)
   * [Grafi, Macro ed Embed](alcuni-concetti-base/grafi-macro-ed-embed.md)
+  * [Scorciatoie da Tastiera](alcuni-concetti-base/scorciatoie-da-tastiera.md)
 
 ## Lezioni
 
