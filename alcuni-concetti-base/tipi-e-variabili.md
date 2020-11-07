@@ -15,7 +15,7 @@ Di seguito sono elencati alcuni dei tipi che andrete ad utilizzare più spesso:
 | Boolean | Rappresenta un valore che può solamente essere vero \(_true_\) o falso \(_false_\) e viene solitamente utilizzato nelle operazioni logiche |
 | String | Rappresenta un elemento di testo \(ad esempio "ciao"\) |
 | Vector3 | Rappresenta un set di 3 coordinate \(x, y, z\) e può essere utilizzato per indicare, tra le altre cose, posizione o direzione di un oggetto |
-| GameObject | Rappresenta l'entità base degli oggetti in una scena di Unity |
+| GameObject | Rappresenta l'entità base degli oggetti in una scena Unity |
 
 ### Le Variabili
 
