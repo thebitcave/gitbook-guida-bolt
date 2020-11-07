@@ -8,8 +8,6 @@
 * [Alcuni Concetti Base](alcuni-concetti-base/README.md)
   * [Tipi e Variabili](alcuni-concetti-base/tipi-e-variabili.md)
   * [Grafi, Macro ed Embed](alcuni-concetti-base/grafi-macro-ed-embed.md)
-  * [La Flow Machine](alcuni-concetti-base/la-flow-machine.md)
-  * [La State Machine](alcuni-concetti-base/la-state-machine.md)
 
 ## Lezioni
 

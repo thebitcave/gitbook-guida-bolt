@@ -1,6 +1,6 @@
 # Lezione 01 - Creare una Flow Machine
 
-In questa lezione andremo a creare una semplice applicazione che andrà a scrivere del testo all'interno della console. In particolare andremo a creare una [Flow Machine](../../alcuni-concetti-base/la-flow-machine.md) ed inseriremo un semplice comando di scrittura.
+In questa lezione andremo a creare una semplice applicazione che andrà a scrivere del testo all'interno della console. In particolare andremo a creare una [Flow Machine]() ed inseriremo un semplice comando di scrittura.
 
 Una Flow Machine non è altro che uno script di Bolt che ci permette di inserire, all'interno di un grafo, una serie di azioni e collegarle tra di loro.
 
