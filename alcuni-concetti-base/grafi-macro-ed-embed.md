@@ -8,15 +8,11 @@ Un _Grafo_ \(_Graph_\) rappresenta in Bolt in modo visuale il vostro "codice". B
 
 Con un _Flow Graph_ è possibile collegare delle unità che eseguono in un determinato ordine \(chiamato _flow_\). Questo tipo di grafo è il più comune e viene solitamente utilizzato per la "programmazione" della logica di un oggetto.
 
-Un Flow Graph può essere aggiunto ad un gameobject tramite il componente _Flow Machine_ \(_Add Component &gt; Bolt &gt; Flow Machine_\).
-
 ![Un esempio di Flow Graph](../.gitbook/assets/flow-graph-04.png)
 
 #### **State Graph**
 
 Con lo _State Graph_ è possibile creare una serie di _stati_ e connetterli tra di loro. Ogni stato deve essere pensato come una sorta di programma che viene eseguito. Questo tipo di grafo è più comunemente utilizzato quando si vogliono creare dei comportamenti di intelligenza artificiale, o strutture ad alto livello nella logica del vostro gioco
-
-Uno State Graph può essere aggiunto ad un gameobject tramite il componente _State Machine_ \(_Add Component &gt; Bolt &gt; State Machine_\).
 
 ![Un esempio di State Graph](../.gitbook/assets/state-machine.png)
 
