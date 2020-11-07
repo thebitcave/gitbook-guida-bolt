@@ -32,3 +32,7 @@ Bolt permette di creare \(dichiarare\) sei tipi di variabili:
 | **Application Variables** | Sono variabili persistenti da una scena all'altra e verranno "eliminate" solamente se l'applicazione viene chiusa |
 | **Saved Variables** | Sono variabili che vengono salvate anche se l'applicazione viene chiusa. Utilizzano il sistema di salvataggio di Unity |
 
+Le variabili, in Bolt, possono essere visualizzate tramite la finestra _Variables_ \(apribile dal menu _Window &gt; Variables_\) oppure, nel caso delle _Graph Variables_, nel componente _Variables_ creato assieme alla Flow Machine.
+
+![Il pannello Variables](../.gitbook/assets/pannello-variables.png)
+
