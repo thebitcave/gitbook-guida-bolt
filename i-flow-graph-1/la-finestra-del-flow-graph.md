@@ -27,3 +27,5 @@ La barra degli strumenti contiene una serie di elementi che permettono un utiliz
 | **Overview** | Cliccando questo pulsante, sarà possibile visualizzare tutte le unità nello spazio di lavoro |
 | **Fullscreen** | Permette di mostrare la finestra del grafo in tutto lo spazio di Unity \(nello stesso modo che si otterrebbe premendo _Shift + Barra Spaziatrice_\) |
 
+### 
+
