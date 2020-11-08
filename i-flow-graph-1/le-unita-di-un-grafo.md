@@ -16,7 +16,7 @@ Per creare una unità, sono possibili due operazioni:
 * Cliccare con il pulsante destro del mouse e selezionare _Add Unit_
 * Cliccare sul pulsante sinistro su una porta, trascinare in un punto del grafo e rilasciare
 
-In entrambi i casi, verrà aperto un pannello che elencherà i nodi disponibili.
+In entrambi i casi, verrà aperto un pannello che elencherà i nodi disponibili. In fondo al pannello è disponibile una breve documentazione di cosa fa l'unità in questione.
 
 ![Aggiungere una unit&#xE0;](../.gitbook/assets/add-unit.png)
 
