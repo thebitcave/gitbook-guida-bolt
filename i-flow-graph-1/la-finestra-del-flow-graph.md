@@ -21,7 +21,7 @@ La barra degli strumenti contiene una serie di elementi che permettono un utiliz
 | **Relations** | Se attivato, sarà possibile vedere le varia relazioni tra i _pin_ di ingresso e di uscita delle unità |
 | **Values** | Se attivato, verranno mostrati i valori nelle connessioni tra una unità e l'altra |
 | **Dim** | Se questo pulsante è selezionato, tutte le unità non collegate al flusso di esecuzione verranno mostrate in semitrasparenza |
-| **Carry** |  |
+| **Carry** | Se questo pulsante è abilitato, lo spostamento di una unità causerà lo spostamento di tutte le unità collegate |
 | **Align** | Selezionando una serie di unità, è possibile allinearle nello spazio di lavoro secondo una serie di opzioni |
 | **Distribute** | Selezionando una serie di unità, è possibile distribuirle nello spazio di lavoro secondo una serie di opzioni |
 | **Overview** | Cliccando questo pulsante, sarà possibile visualizzare tutte le unità nello spazio di lavoro |
