@@ -1,6 +1,10 @@
-# Lezione 01 - Creare una Flow Machine
+---
+description: >-
+  In questa lezione andremo a creare una semplice applicazione che andrà a
+  scrivere del testo all'interno della console.
+---
 
-In questa lezione andremo a creare una semplice applicazione che andrà a scrivere del testo all'interno della console. In particolare andremo a creare una [Flow Machine](https://thebitcave.gitbook.io/guida-a-unity-bolt/alcuni-concetti-base/grafi-macro-ed-embed#flow-graph) ed inseriremo un semplice comando di scrittura.
+# Lezione 01 - Creare una Flow Machine
 
 Una Flow Machine non è altro che uno script di Bolt che ci permette di inserire, all'interno di un grafo, una serie di azioni e collegarle tra di loro.
 
