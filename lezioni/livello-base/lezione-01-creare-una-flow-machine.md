@@ -21,7 +21,7 @@ Per prima cosa andiamo a creare un oggetto in scena ed aggiungiamo uno di questi
 * Selezioniamo _Bolt &gt; FlowMachine_ per aggiungere il componente
 * Nel componente appena aggiunto, nel campo Source, selezioniamo _Embed_
 
-![i componenti Flow Machine e Variables](../../.gitbook/assets/flow-machine-component.png)
+![I componenti Flow Machine e Variables](../../.gitbook/assets/flow-machine-component.png)
 
 Noterete che è stato aggiunto anche un componente _Variables_: in seguito andremo a vedere il suo utilizzo.
 
