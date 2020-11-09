@@ -46,3 +46,38 @@ Durante l'esecuzione del programma, nel caso venga trovato un errore, Bolt lo se
 
 ![Segnalazione di un errore](../.gitbook/assets/error.png)
 
+### Innestare i Grafi \(Super Units\)
+
+All'interno di un grafo è possibile innestare altri grafi, che vengono chiamati **Super Unità** \(**Super Units**\). E' possibile creare una unità di questo genere cliccando con il pulsante destro del mouse e selezionando _Nesting &gt; Super Unit_.
+
+![La super unit](../.gitbook/assets/super-unit.png)
+
+Tramite doppio click sul nodo, sarà possibile "entrare" in esso e sarà possibile modificarlo come un qualsiasi altro grafo.
+
+Una super unit possiede due elementi già inseriti:
+
+* **Input**: permette di definire gli elementi in ingresso e i parametri che possono essere passati
+* **Output**: permette di definire gli elementi in uscita ed i valori che la super unit può ritornare
+
+![Gli elementi di Input e Output](../.gitbook/assets/super-unit-input-output.png)
+
+#### Impostare Input e Output
+
+I valori di Input e Output possono essere definiti tramite la finestra del _Graph Inspector_ \(Window _&gt; Graph Inspector_\).
+
+![](../.gitbook/assets/super-unit-graph-inspector.png)
+
+Nell'immagine seguente, sono stati definiti un valore di Input e uno di Output:
+
+![](../.gitbook/assets/super-unit-input-output-3.png)
+
+Il risultato, nel grafo, sarà il seguente:
+
+![](../.gitbook/assets/super-unit-input-output-2.png)
+
+Il nodo, nel grafo "genitore", avrà il seguente aspetto:
+
+![](../.gitbook/assets/super-unit-input-output-4.png)
+
+
+
