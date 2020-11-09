@@ -34,5 +34,15 @@ Per scollegare due unità:
 
 * Cliccare con il pulsante destro del mouse sulla porta che si vuole sconnettere
 
+### Individuazione di Possibili Errori
 
+Esistono alcuni casi in cui Bolt riesce a prevedere la possibilità di un errore. In questi casi, l'unità verrà colorata in arancione.
+
+![Segnalazione di un possibile errore](../.gitbook/assets/warning.png)
+
+### Errori in Fase di Esecuzione
+
+Durante l'esecuzione del programma, nel caso venga trovato un errore, Bolt lo segnalerà colorando l'unità "incriminata" con il colore rosso. Una unità senza errori in _Play Mode_ viene colorata di blu.
+
+![Segnalazione di un errore](../.gitbook/assets/error.png)
 
