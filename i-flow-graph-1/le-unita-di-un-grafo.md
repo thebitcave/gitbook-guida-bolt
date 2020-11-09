@@ -20,5 +20,19 @@ In entrambi i casi, verrà aperto un pannello che elencherà i nodi disponibili.
 
 ![Aggiungere una unit&#xE0;](../.gitbook/assets/add-unit.png)
 
+#### Collegare due Unità
+
+Per collegare due unità:
+
+* Cliccare con il pulsante sinistro del mouse su una porta della prima unità
+* Tenendo il pulsante premuto, trascinare il puntatore su una porta della seconda unità \(che sia possibile collegare\)
+* Rilasciare il pulsante del mouse
+
+Scollegare due Unità
+
+Per scollegare due unità:
+
+* Cliccare con il pulsante destro del mouse sulla porta che si vuole sconnettere
+
 
 
