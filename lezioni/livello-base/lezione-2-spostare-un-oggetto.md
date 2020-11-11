@@ -38,10 +38,10 @@ Se volessi spostare verso l'alto un oggetto, dovrei sommare al valore _y_ della 
 
 Per poter muovere la nostra freccia, utilizzeremo l'unità _Translate_, che permette di spostare un oggetto un una determinata direzione \(data da un valore _Vector3_\).
 
-* Aggiungere nel grafo l'unità _Transform.Translate\(translation\)_
-* Collegarla con l'uscita di _Update_
-* Nel campo _translation_, inserire i valori _0, 0, 1_
-* Salvare premere _Play_
+* Aggiungiamo nel grafo l'unità _Transform.Translate\(translation\)_
+* Colleghiamola con l'uscita di _Update_
+* Nel campo _translation_, inseriamo i valori _0, 0, 1_
+* Salviamo e premiamo _Play_
 
 Una volta in esecuzione, noterete che la freccia si sposta in avanti in modo estremamente veloce \(un metro per frame\).
 
@@ -59,8 +59,8 @@ Al momento la velocità della freccia è stata inserita all'interno dei campi. P
 
 La prima cosa che dobbiamo fare è "portare fuori" dall'unità il valore inserito.
 
-* Cliccare sulla porta di _translation_ e trascinare rilasciando in un punto libero del grafo
-* Cercare e selezionare _Transform.forward \(get\)_
+* Clicchiamo sulla porta di _translation_ e trasciniamo rilasciando in un punto libero del grafo
+* Cerchiamo e selezioniamo _Transform.forward \(get\)_
 
 L'operazione appena effettuata non cambia nulla della nostra scena \(provare per credere\), ma ci permette di modificare il valore in ingresso
 
@@ -70,10 +70,10 @@ L'operazione appena effettuata non cambia nulla della nostra scena \(provare per
 
 Al momento, lo spostamento della freccia è dipendente dai frame per secondo della nostra applicazione: infatti l'oggetto si muove di un metro per frame. Devo cercare di rendere il movimento indipendente dal tempo intercorso tra un frame e l'altro.
 
-* Aggiungere una unità _Time.deltaTime \(get\)_
-* Aggiungere una unità _Multiply \(in Math/Generic\)_
-* Collegare le unità come in figura
-* Lanciare l'applicazione
+* Aggiungiamo una unità _Time.deltaTime \(get\)_
+* Aggiungiamo una unità _Multiply \(in Math/Generic\)_
+* Colleghiamo le unità come in figura
+* Lanciamo l'applicazione
 
 ![](../../.gitbook/assets/arrow-control-3.png)
 
@@ -83,7 +83,14 @@ Abbiamo quindi ottenuto l'indipendenza dal framerate: dobbiamo solamente permett
 
 #### Velocità di Movimento
 
-\[TBD\]
+Per aumentare \(o diminuire\) la velocità con cui l'oggetto viene traslato, è sufficiente moltiplicare il valore per un numero:
+
+* Aggiungiamo un altro nodo _Multiply \(in Math/Generic\)_
+* Aggiungiamo anche un nodo _float Literal_ che ci permette di inserire un numero decimale \(nel mio caso ho utilizzato 15\)
+* Colleghiamo i nodi come in figura
+* Lanciamo l'applicazione \(non dimentichiamoci di salvare!\) 
 
 ![](../../.gitbook/assets/arrow-control-4.png)
+
+Noterete che la freccia ora si sposta ad una determinata velocità: modificando il valore decimale potrete rendere il movimento più veloce o più lento.
 
