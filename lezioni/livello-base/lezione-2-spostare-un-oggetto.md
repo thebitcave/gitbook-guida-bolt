@@ -83,5 +83,7 @@ Abbiamo quindi ottenuto l'indipendenza dal framerate: dobbiamo solamente permett
 
 #### Velocità di Movimento
 
+\[TBD\]
 
+![](../../.gitbook/assets/arrow-control-4.png)
 
