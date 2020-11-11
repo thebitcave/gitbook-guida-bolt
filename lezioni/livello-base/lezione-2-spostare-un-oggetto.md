@@ -20,7 +20,7 @@ La posizione \(**position**\) di un oggetto è data da tre valori \(x, y, z\) ch
 Se volessi spostare verso l'alto un oggetto, dovrei sommare al valore _y_ della _position_ un numero positivo, ad esempio _\(0, 4, 0\)_ Se invece volessi spostarlo verso il basso, dovrei utilizzare un valore negativo, ad esempio _\(0, -6, 0\)_.
 {% endhint %}
 
-### Utilizzare il metodo Translate\(\)
+### Aprire la Scena
 
-
+Una volta aperta la scena di supporto, sarà possibile visualizzare una freccia: selezionandola, potremo notare che è già stato aggiunto il componente _Flow Machine_.
 
