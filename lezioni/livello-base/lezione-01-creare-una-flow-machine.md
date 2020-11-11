@@ -9,7 +9,7 @@ description: >-
 Una Flow Machine non è altro che uno script di Bolt che ci permette di inserire, all'interno di un grafo, una serie di azioni e collegarle tra di loro.
 
 {% hint style="info" %}
-La scena da aprire, nel caso si stia utilizzando il progetto di supporto, è **Lezione 01 - Hello World**.
+Per questa lezione, si consiglia di utilizzare la scena **Lezione 01 - Hello World** inclusa [nel progetto di supporto](https://github.com/thebitcave/gitbook-guida-bolt/releases).
 {% endhint %}
 
 ### Creare la Flow Machine
