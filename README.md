@@ -16,9 +16,15 @@ Questo documento parte dal presupposto che si conoscano le basi di Unity3D \([ht
 
 Il progetto utilizzato durante le esercitazioni è disponibile al seguente indirizzo: [https://github.com/thebitcave/gitbook-guida-bolt](https://github.com/thebitcave/gitbook-guida-bolt)
 
-> Nota: se non si ha dimestichezza con [Git ](https://git-scm.com/)e [GitHub](https://github.com/), si consiglia di scaricare semplicemente [l'ultima versione disponibile](https://github.com/thebitcave/gitbook-guida-bolt/releases) come file _.zip_, decomprimerla ed aprirla da **Unity Hub**.
+{% hint style="warning" %}
+Se non si ha dimestichezza con [Git ](https://git-scm.com/)e [GitHub](https://github.com/), si consiglia di scaricare semplicemente [l'ultima versione disponibile](https://github.com/thebitcave/gitbook-guida-bolt/releases) come file _.zip_, decomprimerla ed aprirla da **Unity Hub**.
+{% endhint %}
 
+{% hint style="warning" %}
 Il progetto non include Bolt, quindi sarà necessario installarlo [seguendo le istruzioni nella pagina dedicata](primi-passi-1/installare-bolt.md).
+{% endhint %}
+
+
 
 ### Informazioni
 
