@@ -24,8 +24,6 @@ Se non si ha dimestichezza con [Git ](https://git-scm.com/)e [GitHub](https://gi
 Il progetto non include Bolt, quindi sarà necessario installarlo [seguendo le istruzioni nella pagina dedicata](primi-passi-1/installare-bolt.md).
 {% endhint %}
 
-
-
 ### Informazioni
 
 Il progetto parte come ausilio per i miei studenti di [NABA ](https://www.naba.it/it)e [ScuolaFuturoLavoro](https://scuolafuturolavoro.it/), ma può essere fruito da qualsiasi insegnante che voglia introdurre i propri studenti alle basi della programmazione.
