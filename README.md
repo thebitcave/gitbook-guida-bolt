@@ -20,6 +20,14 @@ Il progetto utilizzato durante le esercitazioni è disponibile al seguente indir
 Se non si ha dimestichezza con [Git ](https://git-scm.com/)e [GitHub](https://github.com/), si consiglia di scaricare semplicemente [l'ultima versione disponibile](https://github.com/thebitcave/gitbook-guida-bolt/releases) come file _.zip_, decomprimerla ed aprirla da **Unity Hub**.
 {% endhint %}
 
+#### Struttura del Progetto
+
+Il progetto Unity è diviso in tre parti principali:
+
+* **Lezioni**: le scene incluse in questa cartella sono correlate alle lezioni di questo manuale. In genere troverete la scena base \(per l'inizio della lezione\) e la scena completa
+* **Esercitazioni**: vengono proposte una serie di esercizi da svolgere da soli. Sono proposte anche le soluzioni da confrontare con il proprio svolgimento
+* **Esempi Completi**: vengono proposti alcuni esempi che mostrano alcune tecniche complesse sull'utilizzo di Bolt
+
 {% hint style="warning" %}
 Il progetto non include Bolt, quindi sarà necessario installarlo [seguendo le istruzioni nella pagina dedicata](primi-passi-1/installare-bolt.md).
 {% endhint %}
