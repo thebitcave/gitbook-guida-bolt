@@ -17,7 +17,6 @@ Il progetto Unity è diviso in tre parti principali:
 Una volta scaricato ed aperto il progetto con Unity, sarà necessario installare (gratis, dallo Unity Asset Store):
 
 * [Bolt Visual Scripting](https://assetstore.unity.com/packages/tools/visual-scripting/bolt-163802)
-* [DOTween](https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676)
 
 ## Credits
 
