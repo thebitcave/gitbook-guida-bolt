@@ -21,3 +21,7 @@
 * [Livello Intermedio](lezioni/livello-intermedio.md)
 * [Livello Avanzato](lezioni/livello-avanzato.md)
 
+## Appendice
+
+* [Risorse Addizionali](appendice/risorse-addizionali.md)
+
