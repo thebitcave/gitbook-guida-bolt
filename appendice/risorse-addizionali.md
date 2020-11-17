@@ -17,6 +17,8 @@
 * [Introducing Bolt: Unity's new visual scripting tool \| Unite Now 2020](https://www.youtube.com/watch?v=DtbyC1OBpFg) by Unity
 * [Platformer with Bolt](https://www.youtube.com/watch?v=nQpW1iuXZbU&list=PLivfKP2ufIK6U9oQkUC3hBqVQHkimAGja) by GameGrind
 * [Bolt Unity 2D Platformer Tutorial](https://www.youtube.com/playlist?list=PLgKmjJ_d-5s5FPUqjP0OmaMEPVyFFjMAv) by Gamegrind
+* [Bolt Visual Scripting - Basics to Advanced Courses](https://www.youtube.com/playlist?list=PL3T1Njgd_L9A2dNlDxJiFYa4_hag127m6) by AliveDrive
+* [Bolt Visual Scripting - 2018 Tutorials](https://www.youtube.com/watch?v=pUCcp6VwNbE&list=PL3T1Njgd_L9CvGlYLqU-w2VIjCUfmT5DH) by AliveDrive
 
 #### GitHub
 
