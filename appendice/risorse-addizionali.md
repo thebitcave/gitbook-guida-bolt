@@ -19,6 +19,7 @@
 * [Bolt Unity 2D Platformer Tutorial](https://www.youtube.com/playlist?list=PLgKmjJ_d-5s5FPUqjP0OmaMEPVyFFjMAv) by Gamegrind
 * [Bolt Visual Scripting - Basics to Advanced Courses](https://www.youtube.com/playlist?list=PL3T1Njgd_L9A2dNlDxJiFYa4_hag127m6) by AliveDrive
 * [Bolt Visual Scripting - 2018 Tutorials](https://www.youtube.com/watch?v=pUCcp6VwNbE&list=PL3T1Njgd_L9CvGlYLqU-w2VIjCUfmT5DH) by AliveDrive
+* [Bolt Videos](https://www.youtube.com/watch?v=Rnb6Kf5GHes&list=PLoBubRewQ5k3sXeoT0LTvKdYBJMVlw3Nu) by Kevin Bryant
 
 #### GitHub
 
