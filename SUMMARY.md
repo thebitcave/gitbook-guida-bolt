@@ -17,7 +17,7 @@
 
 * [Livello Base](lezioni/livello-base/README.md)
   * [Lezione 01 - Creare una Flow Machine](lezioni/livello-base/lezione-01-creare-una-flow-machine.md)
-  * [Lezione 2 - Spostare un Oggetto](lezioni/livello-base/lezione-2-spostare-un-oggetto.md)
+  * [Lezione 02 - Spostare un Oggetto](lezioni/livello-base/lezione-2-spostare-un-oggetto.md)
 * [Livello Intermedio](lezioni/livello-intermedio.md)
 * [Livello Avanzato](lezioni/livello-avanzato.md)
 

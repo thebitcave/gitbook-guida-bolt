@@ -4,7 +4,7 @@ description: >-
   traslazione di un Transform.
 ---
 
-# Lezione 2 - Spostare un Oggetto
+# Lezione 02 - Spostare un Oggetto
 
 Esistono diverse possibilità nel caso si volesse spostare un oggetto in scena: una di queste è quella di traslarlo intervenendo sul suo _Transform_ \(in particolare, i valori di _position_\).
 
