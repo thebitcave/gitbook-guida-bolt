@@ -22,7 +22,7 @@ Una volta aperta la scena di supporto, sarà possibile visualizzare una freccia:
 
 ### L'Evento Update
 
-L'evento che rimane, Update permette di eseguire del codice _una volta_ per frame: per fare un esempio, se il nostro gioco gira a 100FPS \(_Frame per Secondo_\), Update verrà eseguito approssimativamente cento volte in un secondo \(gli FPS non sono mai costanti\).
+L'evento che rimane, _Update_ permette di eseguire del codice _una volta_ per frame: per fare un esempio, se il nostro gioco gira a 100FPS \(_Frame per Secondo_\), Update verrà eseguito approssimativamente cento volte in un secondo \(gli FPS non sono mai costanti\).
 
 Il nostro intento è quello di spostare di un breve passo la freccia ad ogni esecuzione.
 
