@@ -22,3 +22,7 @@ Una volta scaricato ed aperto il progetto con Unity, sarà necessario installare
 
 * [Kay Kit  Mini-Game Variety Pack](https://kaylousberg.itch.io/kay-kit-mini-game-variety-pack)
 * [Kenney UI Pack: Space Expansion](https://kenney.nl/assets/ui-pack-space-expansion)
+
+![Screenshot 1](https://github.com/thebitcave/gitbook-guida-bolt/blob/main/Screenshots/screen_01.png)
+![Screenshot 2](https://github.com/thebitcave/gitbook-guida-bolt/blob/main/Screenshots/screen_02.png)
+![Screenshot 3](https://github.com/thebitcave/gitbook-guida-bolt/blob/main/Screenshots/screen_03.png)
