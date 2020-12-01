@@ -14,12 +14,12 @@ Il progetto Unity è diviso in tre parti principali:
 
 ## Installazione
 
-Una volta scaricato ed aperto il progetto con Unity, sarà necessario installare (gratis, dallo Unity Asset Store):
+Una volta scaricato ed aperto il progetto con Unity, sarà necessario installare:
 
-* [Bolt Visual Scripting](https://assetstore.unity.com/packages/tools/visual-scripting/bolt-163802)
-* Cinemachine (dal Package Manager)
-* PostProcessing (dal Package Manager)
-* 2D Sprite (dal Package Manager)
+* **Bolt Visual Scripting** dallo [Unity Asset Store](https://assetstore.unity.com/packages/tools/visual-scripting/bolt-163802)
+* **Cinemachine** dal Package Manager
+* **PostProcessing** dal Package Manager
+* **2D Sprite** dal Package Manager
 
 ## Credits
 
