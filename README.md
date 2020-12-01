@@ -21,6 +21,8 @@ Una volta scaricato ed aperto il progetto con Unity, sarà necessario installare
 * **PostProcessing** dal Package Manager
 * **2D Sprite** dal Package Manager
 
+_Nota: se installate il progetto da GitHub, è molto probabile che le dipendenze delle macro di Bolt verranno perse. Fino a che Bolt non verrà aggiunto al Registry di Unity, è consigliabile utilizzare i file .unitypackage disponibili nella sezione [Releases](https://github.com/thebitcave/gitbook-guida-bolt/releases)._
+
 ## Credits
 
 * [Kay Kit  Mini-Game Variety Pack](https://kaylousberg.itch.io/kay-kit-mini-game-variety-pack)
