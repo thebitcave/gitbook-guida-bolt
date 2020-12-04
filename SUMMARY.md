@@ -15,6 +15,7 @@
 
 ## Lezioni
 
+* [Installazione dei File di Supporto](lezioni/installazione-dei-file-di-supporto.md)
 * [Livello Base](lezioni/livello-base/README.md)
   * [Lezione 01 - Creare una Flow Machine](lezioni/livello-base/lezione-01-creare-una-flow-machine.md)
   * [Lezione 02 - Spostare un Oggetto](lezioni/livello-base/lezione-2-spostare-un-oggetto.md)

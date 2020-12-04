@@ -16,10 +16,6 @@ Questo documento parte dal presupposto che si conoscano le basi di Unity3D \([ht
 
 Il progetto utilizzato durante le esercitazioni è disponibile al seguente indirizzo: [https://github.com/thebitcave/gitbook-guida-bolt](https://github.com/thebitcave/gitbook-guida-bolt)
 
-{% hint style="warning" %}
-Se non si ha dimestichezza con [Git ](https://git-scm.com/)e [GitHub](https://github.com/), si consiglia di scaricare semplicemente [l'ultima versione disponibile](https://github.com/thebitcave/gitbook-guida-bolt/releases) come file _.zip_, decomprimerla ed aprirla da **Unity Hub**.
-{% endhint %}
-
 #### Struttura del Progetto
 
 Il progetto Unity è diviso in tre parti principali:
