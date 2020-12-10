@@ -8,7 +8,7 @@ Bolt permette di creare tre tipi di Stati:
 * **Super States**
 * **Any State**
 
-Gli stati sono connessi tra di loro tramite **Transizioni**, che regolano il passaggio da uno stato all'altro.
+Gli stati sono connessi tra di loro tramite [Transizioni](le-transizioni.md), che regolano il passaggio da uno stato all'altro.
 
 Durante l'esecuzione di uno _State Graph_, uno o più stati dovranno essere definiti come quelli di partenza \(_Start State_\): uno stato di questo genere viene individuato dal colore verde. Se più stati sono selezionati come quelli di partenza, questi verranno tutti eseguiti in parallelo.
 
