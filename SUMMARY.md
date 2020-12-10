@@ -11,7 +11,8 @@
 * [I Flow Graph](i-flow-graph-1/README.md)
   * [La Finestra del Flow Graph](i-flow-graph-1/la-finestra-del-flow-graph.md)
   * [Le Unità](i-flow-graph-1/le-unita-di-un-grafo.md)
-* [Gli State Graph](gli-state-graph.md)
+* [Gli State Graph](gli-state-graph/README.md)
+  * [Gli Stati](gli-state-graph/gli-stati.md)
 
 ## Lezioni
 
