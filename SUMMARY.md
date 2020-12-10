@@ -13,6 +13,7 @@
   * [Le Unità](i-flow-graph-1/le-unita-di-un-grafo.md)
 * [Gli State Graph](gli-state-graph/README.md)
   * [Gli Stati](gli-state-graph/gli-stati.md)
+  * [Le Transizioni](gli-state-graph/le-transizioni.md)
 
 ## Lezioni
 

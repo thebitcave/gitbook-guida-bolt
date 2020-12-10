@@ -34,6 +34,12 @@ Solitamente sono presenti tre eventi:
 * **On Enter State**: viene eseguito non appena si entra in questo stato
 * **On Exit State**: viene eseguito appena prima di uscire da questo stato
 
+Ovviamente è possibile aggiungere qulsiasi altro evento, come nei Flow States.
+
+{% hint style="warning" %}
+I valori di Input ed Output vengono solamente utilizzati per le Super Unit e non hanno un valore effettivo in questo caso
+{% endhint %}
+
 ### I Super States
 
 Un **Super State** è uno stato che contiene altri _State Graph_, permettendo una organizzazione gerarchica delle _State Machines_.
@@ -48,7 +54,13 @@ Lo stato **Any State** permette di creare una transizione da un qualsiasi stato 
 
 Per creare un _Any State_, è sufficiente cliccare con il pulsante  destro in una zona libera del grafo e scegliere _Create Any State_.
 
-### Le Transizioni
+### State Units
 
+Una **State Unit** si comporta in modo molto simile ad una [Super Unit](../i-flow-graph-1/le-unita-di-un-grafo.md#innestare-i-grafi-super-units): permettono di innestare un grafo in una singola unità di un grafo genitore.
 
+![Una State Unit](../.gitbook/assets/state-unit.png)
+
+Per creare una _State Unit_, è sufficiente cliccare con il pulsante destro in una zona libera del grafo e selezionare _Nesting &gt; State Unit_.
+
+Una _State Unit_ possiede due ingressi, che definiscono quando entrare e quando uscire dal nodo e due uscite che definiscono cosa fare, rispettivamente.
 
