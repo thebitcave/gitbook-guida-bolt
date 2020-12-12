@@ -25,7 +25,8 @@ _Nota: se installate il progetto da GitHub, è molto probabile che le dipendenze
 
 ## Credits
 
-* [Kay Kit  Mini-Game Variety Pack](https://kaylousberg.itch.io/kay-kit-mini-game-variety-pack)
+* [KayKit  Mini-Game Variety Pack](https://kaylousberg.itch.io/kay-kit-mini-game-variety-pack)
+* [KayKit Dungeon Pack](https://kaylousberg.itch.io/kaykit-dungeon)
 * [Kenney UI Pack: Space Expansion](https://kenney.nl/assets/ui-pack-space-expansion)
 
 ![Screenshot 1](https://github.com/thebitcave/gitbook-guida-bolt/blob/main/Screenshots/screen_01.png)
