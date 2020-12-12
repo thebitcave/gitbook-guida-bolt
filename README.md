@@ -14,11 +14,20 @@ Il progetto Unity è diviso in tre parti principali:
 
 ## Installazione
 
-Una volta scaricato ed aperto il progetto con Unity, sarà necessario installare (gratis, dallo Unity Asset Store):
+Una volta scaricato ed aperto il progetto con Unity, sarà necessario installare:
 
-* [Bolt Visual Scripting](https://assetstore.unity.com/packages/tools/visual-scripting/bolt-163802)
+* **Bolt Visual Scripting** dallo [Unity Asset Store](https://assetstore.unity.com/packages/tools/visual-scripting/bolt-163802)
+* **Cinemachine** dal Package Manager
+* **PostProcessing** dal Package Manager
+* **2D Sprite** dal Package Manager
+
+_Nota: se installate il progetto da GitHub, è molto probabile che le dipendenze delle macro di Bolt verranno perse. Fino a che Bolt non verrà aggiunto al Registry di Unity, è consigliabile utilizzare i file .unitypackage disponibili nella sezione [Releases](https://github.com/thebitcave/gitbook-guida-bolt/releases)._
 
 ## Credits
 
-* [Kay Kit  Mini-Game Variety Pack](https://kaylousberg.itch.io/kay-kit-mini-game-variety-pack)
+* [KayKit  Mini-Game Variety Pack](https://kaylousberg.itch.io/kay-kit-mini-game-variety-pack)
 * [Kenney UI Pack: Space Expansion](https://kenney.nl/assets/ui-pack-space-expansion)
+
+![Screenshot 1](https://github.com/thebitcave/gitbook-guida-bolt/blob/main/Screenshots/screen_01.png)
+![Screenshot 2](https://github.com/thebitcave/gitbook-guida-bolt/blob/main/Screenshots/screen_02.png)
+![Screenshot 3](https://github.com/thebitcave/gitbook-guida-bolt/blob/main/Screenshots/screen_03.png)
