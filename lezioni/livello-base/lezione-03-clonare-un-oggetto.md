@@ -74,10 +74,12 @@ Dobbiamo indicare in che punto e a che rotazione vogliamo che l'oggetto venga is
 
 Mandando in Play la scena, dovrebbe essere possibile lanciare una freccia ogni volta che si preme il tasto Space
 
-### Esercizio Integrartivo
+### Esercizio Integrativo
 
-Come esercizio addizionale:
+Come esercizi addizionali, completare:
 
-* Duplicare il gameobject _Spawner_ tre o quattro volte
-* Per ogni _Spawner_, modificare il grafo in modo tale che sia possibile lanciare la freccia alla pressione di tasti differenti \(ad esempio 1, 2, 3, 4\)
+* L'**Esercitazione 03 - Spawner Multipli** all'interno delle esercitazioni di livello base del progetto Unity
+* L'**Esercitazione 01 - Spawner Prefab** all'interno delle esercitazioni di livello intermedio del progetto Unity
+
+
 
