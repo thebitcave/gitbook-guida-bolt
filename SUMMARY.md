@@ -22,7 +22,8 @@
   * [Lezione 01 - Creare una Flow Machine](lezioni/livello-base/lezione-01-creare-una-flow-machine.md)
   * [Lezione 02 - Spostare un Oggetto](lezioni/livello-base/lezione-2-spostare-un-oggetto.md)
   * [Lezione 03 - Clonare un Oggetto](lezioni/livello-base/lezione-03-clonare-un-oggetto.md)
-* [Livello Intermedio](lezioni/livello-intermedio.md)
+* [Livello Intermedio](lezioni/livello-intermedio/README.md)
+  * [Utilizzare le Coroutines](lezioni/livello-intermedio/utilizzare-le-coroutines.md)
 * [Livello Avanzato](lezioni/livello-avanzato.md)
 
 ## Appendice
