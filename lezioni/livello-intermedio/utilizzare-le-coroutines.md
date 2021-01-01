@@ -4,7 +4,9 @@ description: >-
   modalità Coroutine.
 ---
 
-# Utilizzare le Coroutines
+# Lezione 01 - Utilizzare le Coroutines
 
-\[Disponibile a Breve\]
+{% hint style="info" %}
+In Unity, ma anche nella programmazione in generale, una [Coroutine ](https://docs.unity3d.com/Manual/Coroutines.html)è una funzione che può essere messa in pausa e riattivata all'avverarsi di alcuni particolari eventi \(es.: al frame successivo, dopo un determinato periodo, etc.\).
+{% endhint %}
 
