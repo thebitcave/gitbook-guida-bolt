@@ -7,6 +7,10 @@
 * [Video Archiviati](https://learn.unity.com/tutorial/bolt-videos-archived) su _Unity Learn_
 * [Unity Visual Scripting for Artists and Designers](https://resources.unity.com/unitenow/onlinesessions/unity-visual-scripting-for-artists-and-designers) \(on demand\)
 
+#### Tutorials
+
+* [Bolt Tip Tutorials](https://github.com/YoloGameStudio/bolt-tips-tutorials) by Yolo Game Studio
+
 ### Add-ons
 
 * [Bolt Style Guide](https://github.com/YoloGameStudio/bolt-style-guide)
