@@ -96,3 +96,25 @@ Provate ad eseguire l'applicazione e vedrete che ora le frecce vengono generate 
 
 ![](../.gitbook/assets/ritardo_spawn.png)
 
+### Ultime Migliorie
+
+Il sistema è funzionante, ma può essere migliorato con alcuni piccoli ritocchi.
+
+#### Gestire il Numero di Oggetti Generati
+
+Al momento il numero di elementi generati è fissato a 10: possiamo rendere più flessibile il nostro evento personalizzato tramite l'aggiunta di un parametro \(**Argument**\):
+
+* Nel nodo _Custom Event_, sostituire inserire il valore _1_ nel campo _Arguments_
+* Apparirà un pin in uscita di colore verde
+* Collegare il pin \(che sarà il nostro parametro in ingresso\) con il valore _Last_ dell'unità _For Loop_
+
+![](../.gitbook/assets/argument_in.png)
+
+Il parametro in ingresso dovrà essere "passato" dal trigger:
+
+* Nell'unità _Trigger Custom Event_ inseriamo il valore _1_ nel campo Arguments: comparirà un pin in ingresso
+* 
+#### Interrompere le Interazioni in fase di Esecuzione
+
+
+
