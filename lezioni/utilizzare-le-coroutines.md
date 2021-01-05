@@ -113,8 +113,43 @@ Al momento il numero di elementi generati è fissato a 10: possiamo rendere più
 Il parametro in ingresso dovrà essere "passato" dal trigger:
 
 * Nell'unità _Trigger Custom Event_ inseriamo il valore _1_ nel campo Arguments: comparirà un pin in ingresso
-* 
+* Collegare il nuovo pin ad una unità _int Literal_
+* Assegnare un valore maggiore di zero all'unità
+
+![](../.gitbook/assets/trigger_arguments.png)
+
+Una volta lanciata l'applicazione, sarà possibile notare che il numero di frecce generate è pari al valore passato.
+
 #### Interrompere le Interazioni in fase di Esecuzione
 
+Per come è strutturata l'applicazione, è possibile generare più serie di eventi sovrapposti \(ad esempio, premendo più volte la barra spaziatrice\). Per migliorare l'interazione, sarebbe meglio pensare di disattivare l'interazione con il giocatore fino a che il ciclo non abbia terminato di eseguire i comandi.
 
+Per fare questo utilizzeremo una variabile booleana che indica se il ciclo è in esecuzione oppure no.
+
+* Creiamo una _Graph Variable_ \(nel pannello _Variables_\) di tipo _bool_ e chiamata _canShoot_
+* Assegnamole un valore di partenza _true_
+
+![](../.gitbook/assets/variables%20%281%29.png)
+
+* Trasciniamo la variabile appena creata nel grafo, vicino all'unità _Input.GetKeyDown_
+* Colleghiamo le due unità tra loro con una unità _Logic &gt; And_
+* Colleghiamo il pin di uscita di _And_ al pin di entrata del _Branch_
+
+![](../.gitbook/assets/branch%20%281%29.png)
+
+Lo schema appena creato ci permette di lanciare l'evento solo se è stata premuta la barra spaziatrice e la variabile _canShoot_ è vera. Vogliamo che la variabile diventi falsa durante l'esecuzione del ciclo.
+
+* Spostiamoci nel evento personalizzato e tra il nodo _Custom Event_ e il _For Loop_ inseriamo una unità _Variable &gt; Graph &gt; Set Graph Variable_
+* Impostiamo il nome della variabile a _canShoot_
+* Assegnamo un _bool Literal_ al pin di ingresso con valore _false_
+
+![](../.gitbook/assets/set_bool.png)
+
+Appena prima di cominciare il ciclo, la variabile viene impostata ad un valore falso, impedendo così all'evento update di generare ulteriori eventi.
+
+* Nel pin Exit dell'unità For Loop, inseriamo gli stessi elementi di sopra, ma il bool Literal dovrà essere true, in modo tale da riattivare la possibilità di sparare
+
+![](../.gitbook/assets/set_bool_true.png)
+
+Mandate in esecuzione l'applicazione e sarà possibile sparare solamente una volta terminato il ciclo di fuoco precedente.
 
