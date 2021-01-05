@@ -18,7 +18,24 @@ Una volta aperta la scena di supporto, sarà possibile visualizzare un oggetto _
 
 * Selezioniamo il gameobject _Spawner_ e notiamo che è già presente il componente _Flow Machine_.
 * Apriamo il grafo cliccando su _Edit Graph_ nell'Inspector
-* Noteremo che è presente un singolo evento _Update_
+* Noteremo che è presente un singolo evento _Update_ che intercetta la pressione del tasto _Space_
+
+![Il grafo iniziale](../.gitbook/assets/grafo_iniziale.png)
+
+### Creare un Evento Personalizzato
+
+Un **Evento Personalizzato** \(**Custom Event**\) ci permette di creare un evento simile a quelli già presenti in Unity ma che potremo eseguire a nostro piacimento dallo stesso grafo o da grafi esterni.
+
+{% hint style="info" %}
+Per avere una panoramica di come è possibile utilizzare gli Eventi Personalizzati, aprire la scena **Esempio 01 - Eventi Personalizzati** nel progetto di supporto.
+{% endhint %}
+
+Un Evento Personalizzato è di solito formato da due entità:
+
+* L'evento vero e proprio: che andrà ad eseguire i nodi contenuti
+* L'attivatore dell'evento \(_trigger_\): che comanderà all'evento di eseguire il suo contenuto
+
+Nel nostro caso vogliamo generare una serie di oggetti in una sequenza temporizzata \(es.: generare dieci frecce una alla volta\)
 
 
 
