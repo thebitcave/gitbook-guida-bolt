@@ -10,11 +10,12 @@
 #### Tutorials
 
 * [Bolt Tip Tutorials](https://github.com/YoloGameStudio/bolt-tips-tutorials) by Yolo Game Studio
+* [Bolt 101](https://app.milanote.com/1KBSSo1mTG974S?p=bZD8GEvNHhS)
 
 ### Add-ons
 
 * [Bolt Style Guide](https://github.com/YoloGameStudio/bolt-style-guide)
-* [BoltHub](https://bolthub.net/):  Bolt Visual Script Community
+* [BoltHub](https://bolthub.net/):  viewing and sharing Unity Bolt Macro assets
 
 #### Plugins \(Asset Store\)
 
